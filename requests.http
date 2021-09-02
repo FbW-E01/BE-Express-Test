@@ -1,0 +1,13 @@
+GET http://localhost:3333
+
+###
+
+GET http://localhost:3333/fruit/banana
+
+###
+
+POST http://localhost:3333/post
+
+###
+
+GET http://localhost:3333/asdasddasdsadas
